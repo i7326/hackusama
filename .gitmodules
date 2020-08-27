@@ -1,0 +1,10 @@
+[submodule "chain"]
+	path = chain
+	url = https://github.com/i7326/substrate-node-template.git
+	branch = contact-tracing
+[submodule "backend-client"]
+	path = backend-client
+	url = https://github.com/i7326/contact-tracing-backend-client.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/i7326/contact-tracing-mobile-app.git

@@ -1,0 +1,16 @@
+{
+    "Address": "AccountId",
+    "LookupSource": "AccountId",
+    "UUID": "Text",
+    "ExchangableId": "Hash",
+    "ExchangableIdLinkedItem": "Struct",
+    "id": "Text",
+    "contact_id": "Text",
+    "FlagType": {
+        "_enum": [
+            "Positive",
+            "Negative",
+            "Suspicious"
+        ]
+    }
+}
